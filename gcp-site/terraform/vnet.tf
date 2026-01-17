@@ -1,1 +1,0 @@
-resource "google_vnet" "example" { name = "vnet-demo" }
