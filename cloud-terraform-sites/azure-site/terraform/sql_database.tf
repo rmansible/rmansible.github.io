@@ -1,0 +1,1 @@
+resource "azurerm_sql_database" "example" { name = "sql_database-demo" }

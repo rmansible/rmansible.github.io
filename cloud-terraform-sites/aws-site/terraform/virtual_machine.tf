@@ -1,0 +1,1 @@
+resource "aws_virtual_machine" "example" { name = "virtual_machine-demo" }

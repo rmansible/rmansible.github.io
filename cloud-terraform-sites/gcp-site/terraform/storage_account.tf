@@ -1,0 +1,1 @@
+resource "google_storage_account" "example" { name = "storage_account-demo" }
