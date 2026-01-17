@@ -1,1 +1,0 @@
-resource "azurerm_vnet" "example" { name = "vnet-demo" }
