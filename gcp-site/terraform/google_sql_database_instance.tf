@@ -1,0 +1,1 @@
+resource "google_sql_database_instance" "example" { name = "sql_database_instance-demo" }

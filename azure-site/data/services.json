@@ -1,0 +1,10 @@
+[
+  "azurerm_resource_group",
+  "azurerm_virtual_network",
+  "azurerm_subnet",
+  "azurerm_linux_virtual_machine",
+  "azurerm_storage_account",
+  "azurerm_kubernetes_cluster",
+  "azurerm_app_service",
+  "azurerm_sql_database"
+]

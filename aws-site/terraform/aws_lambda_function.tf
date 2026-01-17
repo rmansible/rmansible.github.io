@@ -1,0 +1,1 @@
+resource "aws_lambda_function" "example" { name = "lambda_function-demo" }

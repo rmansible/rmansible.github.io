@@ -1,0 +1,1 @@
+resource "aws_eks_cluster" "example" { name = "eks_cluster-demo" }

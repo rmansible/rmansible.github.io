@@ -1,0 +1,1 @@
+resource "google_compute_instance" "example" { name = "compute_instance-demo" }

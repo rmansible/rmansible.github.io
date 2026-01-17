@@ -1,0 +1,1 @@
+resource "google_container_cluster" "example" { name = "container_cluster-demo" }

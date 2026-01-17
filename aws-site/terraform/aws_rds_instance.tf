@@ -1,0 +1,1 @@
+resource "aws_rds_instance" "example" { name = "rds_instance-demo" }

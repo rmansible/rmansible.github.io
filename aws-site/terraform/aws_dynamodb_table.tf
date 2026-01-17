@@ -1,0 +1,1 @@
+resource "aws_dynamodb_table" "example" { name = "dynamodb_table-demo" }

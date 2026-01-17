@@ -1,0 +1,10 @@
+[
+  "aws_vpc",
+  "aws_subnet",
+  "aws_instance",
+  "aws_s3_bucket",
+  "aws_rds_instance",
+  "aws_eks_cluster",
+  "aws_lambda_function",
+  "aws_dynamodb_table"
+]

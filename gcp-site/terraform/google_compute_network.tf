@@ -1,0 +1,1 @@
+resource "google_compute_network" "example" { name = "compute_network-demo" }

@@ -1,0 +1,1 @@
+resource "google_cloud_run_service" "example" { name = "cloud_run_service-demo" }

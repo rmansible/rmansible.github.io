@@ -1,0 +1,9 @@
+[
+  "google_compute_network",
+  "google_compute_instance",
+  "google_storage_bucket",
+  "google_container_cluster",
+  "google_sql_database_instance",
+  "google_cloud_run_service",
+  "google_pubsub_topic"
+]

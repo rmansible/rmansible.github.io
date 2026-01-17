@@ -1,0 +1,1 @@
+resource "aws_subnet" "example" { name = "subnet-demo" }

@@ -1,0 +1,1 @@
+resource "azurerm_subnet" "example" { name = "subnet-demo" }

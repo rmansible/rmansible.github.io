@@ -1,0 +1,1 @@
+resource "azurerm_linux_virtual_machine" "example" { name = "linux_virtual_machine-demo" }

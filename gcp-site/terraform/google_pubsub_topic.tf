@@ -1,0 +1,1 @@
+resource "google_pubsub_topic" "example" { name = "pubsub_topic-demo" }
