@@ -1,1 +1,0 @@
-resource "aws_app_service" "example" { name = "app_service-demo" }
