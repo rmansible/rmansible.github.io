@@ -1,0 +1,1 @@
+resource "google_virtual_machine" "example" { name = "virtual_machine-demo" }

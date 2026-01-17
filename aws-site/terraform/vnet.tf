@@ -1,0 +1,1 @@
+resource "aws_vnet" "example" { name = "vnet-demo" }

@@ -1,0 +1,1 @@
+resource "google_sql_database" "example" { name = "sql_database-demo" }
